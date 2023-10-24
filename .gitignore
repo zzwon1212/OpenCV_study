@@ -1,0 +1,11 @@
+# build folder
+build
+
+# image files
+*.bmp
+*.png
+*.jpg
+
+# etc.
+.cache
+.vscode
