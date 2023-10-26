@@ -24,6 +24,4 @@ int main(int argc, char* argv[])
     } else {
         cout << "File save failed!" << endl;
     }
-
-    return 0;
 }

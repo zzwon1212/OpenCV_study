@@ -23,6 +23,4 @@ int main()
     }
     // waitKey(5000); // imshow() 함수 호출 후에 waitKey() 함수를 호출해야 영상이 화면에 나타나므로 대부분의 경우 둘은 세트
     // destroyAllWindows();
-
-    return 0;
 }
