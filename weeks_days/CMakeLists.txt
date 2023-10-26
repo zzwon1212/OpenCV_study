@@ -1,1 +1,3 @@
-add_subdirectory(week1_day2)
+set(WEEK_DAY week1_day3)
+
+add_subdirectory(${WEEK_DAY})
