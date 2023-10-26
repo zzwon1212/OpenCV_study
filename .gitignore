@@ -6,6 +6,10 @@ build
 *.png
 *.jpg
 
+# video files
+*.mp4
+*.avi
+
 # etc.
 .cache
 .vscode
