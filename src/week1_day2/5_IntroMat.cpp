@@ -4,7 +4,7 @@
 using namespace std;
 using namespace cv;
 
-std::string BASE_DIR = "/home/jiwon/workspace/OpenCV_study/weeks_days/week1_day2/";
+string BASE_DIR = "/home/jiwon/workspace/OpenCV_study/weeks_days/week1_day2/";
 
 void MatOp1();
 void MatOp2();

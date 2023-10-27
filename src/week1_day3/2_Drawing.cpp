@@ -4,7 +4,7 @@
 using namespace std;
 using namespace cv;
 
-std::string BASE_DIR = "../weeks_days/week1_day3/";
+string BASE_DIR = "../weeks_days/week1_day3/";
 
 int main()
 {
