@@ -7,7 +7,7 @@ using namespace cv;
 int main()
 {
 	// VideoCapture cap(0);
-	VideoCapture cap("../weeks_days/week1_day3/test_video.mp4");
+	VideoCapture cap("../src/week1_day3/test_video.mp4");
 
 	if (!cap.isOpened()) {
 		cerr << "Video open failed!" << endl;
